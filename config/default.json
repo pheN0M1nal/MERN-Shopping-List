@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://noman:css@cluster0.9wccz.mongodb.net/noman?retryWrites=true&w=majority",
+	"jwtSecret": "secret"
+}
