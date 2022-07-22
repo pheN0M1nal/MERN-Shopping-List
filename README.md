@@ -1,3 +1,6 @@
+Practice app for MERN projects
+
 live Demo: https://shopping-list-mern-phenominal.herokuapp.com/
 
-# MERN-Shopping-List
+frontend : react | backend : Nodejs, express | database : MongoDB
+
